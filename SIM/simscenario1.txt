@@ -1,0 +1,257 @@
+Input parameters:
+n: 5
+n1: 2
+alpha: 0.5
+beta: 0.8
+delta: 0.3
+eta: 2.5
+rho: 11.0
+gamma: 0.7
+nu: 50.0
+tau: 300.0
+
+with graph:
+[0, 3, 4, 1, 7]
+[3, 0, 0, 9, 5]
+[4, 0, 0, 8, 0]
+[1, 9, 8, 0, 6]
+[7, 5, 0, 6, 0]
+
+Observation 1
+Present instant: 15.0
+Number of move events: 530
+Number of evaporation events: 154
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,1,3,4,5}:26
+{2,5,4,3,1}:26
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 2
+Present instant: 30.0
+Number of move events: 1037
+Number of evaporation events: 463
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 3
+Present instant: 45.0
+Number of move events: 1551
+Number of evaporation events: 810
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 4
+Present instant: 60.0
+Number of move events: 2051
+Number of evaporation events: 1128
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 5
+Present instant: 75.0
+Number of move events: 2548
+Number of evaporation events: 1484
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 6
+Present instant: 90.0
+Number of move events: 3065
+Number of evaporation events: 1798
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 7
+Present instant: 105.0
+Number of move events: 3586
+Number of evaporation events: 2141
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 8
+Present instant: 120.0
+Number of move events: 4096
+Number of evaporation events: 2467
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 9
+Present instant: 135.0
+Number of move events: 4604
+Number of evaporation events: 2809
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 10
+Present instant: 150.0
+Number of move events: 5105
+Number of evaporation events: 3178
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 11
+Present instant: 165.0
+Number of move events: 5592
+Number of evaporation events: 3563
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 12
+Present instant: 180.0
+Number of move events: 6096
+Number of evaporation events: 3891
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 13
+Present instant: 195.0
+Number of move events: 6601
+Number of evaporation events: 4214
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 14
+Present instant: 210.0
+Number of move events: 7119
+Number of evaporation events: 4553
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 15
+Present instant: 225.0
+Number of move events: 7620
+Number of evaporation events: 4875
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 16
+Present instant: 240.0
+Number of move events: 8131
+Number of evaporation events: 5224
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 17
+Present instant: 255.0
+Number of move events: 8642
+Number of evaporation events: 5577
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 18
+Present instant: 270.0
+Number of move events: 9161
+Number of evaporation events: 5893
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 19
+Present instant: 285.0
+Number of move events: 9654
+Number of evaporation events: 6216
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
+
+
+Observation 20
+Present instant: 300.0
+Number of move events: 10147
+Number of evaporation events: 6524
+Top candidate cycles:
+{2,3,1,4,5}:16
+{2,3,4,1,5}:21
+{2,3,4,5,1}:24
+Best Hamiltonian cycle:
+{2,3,1,4,5}:16
